@@ -1,0 +1,3 @@
+Hello from Amanda Jones!
+
+This is a new commit!
